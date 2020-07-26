@@ -1,4 +1,7 @@
 A simple version of system that can localize in a built map is developed in this repository. The sysytem is bsed on LIO_SAM.
+## Run the package
+roslaunch lio_sam run_relocalize.launch
+
 ******************************************************************************************************************************************************************
 # LIO-SAM
 
