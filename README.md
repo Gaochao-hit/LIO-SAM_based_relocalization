@@ -1,4 +1,4 @@
-A simple version of system that can localize in a built map is developed in this repository. The sysytem is bsed on LIO_SAM.
+A simple version of system that can relocalize in a built map is developed in this repository. The sysytem is bsed on LIO_SAM.
 ## Run the package
 1. Make sure the map should be saved in the right folder:
 ```
