@@ -16,6 +16,9 @@ rosbag play your-bag.bag
 ```
 
  -A video of the demonstration of the method can be found on [YouTube](https://youtu.be/PRsH8SpuSIc)
+ ## Notes
+
+  - **Initialization:** During the initialization stage, had better keep the robot still. Or if you play bags, fistly play the bag for about 0.5s, and then pause the bag until the initialization succeed. The initialization method requres you to give it initial guesses by hand on the the Rviz.
 
 ******************************************************************************************************************************************************************
 # LIO-SAM
